@@ -1,0 +1,20 @@
+body {
+    background-color: #fdf1d5;
+}
+
+.flyer-container {
+    margin: 50px auto;
+
+    border: 5px solid #59652d;
+    border-radius: 20px;
+
+    width: 14.8cm;
+    height: 21cm;
+
+    background-image: url("../img/flyer.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    box-shadow: 0 0 10px #00000088;
+}
